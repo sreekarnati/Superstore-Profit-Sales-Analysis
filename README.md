@@ -25,4 +25,4 @@ Based on the data, the following two strategies are recommended:
 | Resource | Link |
 | :--- | :--- |
 | **Live Interactive Dashboard** | [Superstore Profit & Sales Analysis](https://public.tableau.com/app/profile/sree.vaishnav.karnati/viz/SuperstoreProfitSalesAnalysis_17636556003760/SuperstoreSalesDashboard?publish=yes) |
-| **Source Files(.xlsx, .twbx)** | [Cleaned Data Sheet](Superstore_analysis.xlsx) & [Tableau Workbook](Superstore Profit & Sales Analysis.twb) |
+| **Source Files (.xlsx, .twb)** | [Cleaned Data Sheet](Superstore_analysis.xlsx) & [Tableau Workbook](Superstore Profit & Sales Analysis.twb) |
